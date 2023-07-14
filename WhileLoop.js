@@ -54,8 +54,8 @@ while(f <= 10) {
 }
 
 let h = 1;
-while(true) {
-    console.log(h);
-    h++;
-}
+// while(true) {
+//     console.log(h);
+//     h++;
+// }
 
