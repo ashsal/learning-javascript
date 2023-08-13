@@ -1,0 +1,20 @@
+{
+  "name": "javascript-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArithmeticOperator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashsal/learning-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashsal/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/ashsal/learning-javascript#readme"
+}
