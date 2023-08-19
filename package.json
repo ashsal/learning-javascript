@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ashsal/learning-javascript/issues"
   },
-  "homepage": "https://github.com/ashsal/learning-javascript#readme"
+  "homepage": "https://github.com/ashsal/learning-javascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
